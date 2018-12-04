@@ -10,9 +10,9 @@ def _format_addr(s):
     name,addr = parseaddr(s)    
     return formataddr((Header(name,'utf-8').encode(),addr))
 #发件人地址
-from_addr = 'zyazhbtest@126.com'
+from_addr = '*****@126.com'
 #密码刚才复制的邮箱的授权码
-password = 'nefu1234'
+password = '*****'
 #收件人地址
 to_addr =  'zyazhb@126.com'
 #邮箱服务器地址
