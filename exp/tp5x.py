@@ -13,7 +13,7 @@ def test_url(url):
             r=requests.get(url + exp)
         except:
             continue
-        exist = re.findall('System Error',r.text)
+        exist = re.findall('HttpException',r.text)
         #print(exist)
         #exist = re.findall('<br/>\\n(.*?)</p>',content)
         if (exist):
