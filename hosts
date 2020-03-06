@@ -1,0 +1,41 @@
+192.30.253.112 	github.com
+151.101.185.194 	github.global.ssl.fastly.net
+140.82.118.4 	github.com
+52.64.108.95	github.com
+
+151.101.66.167	twitch.tv
+151.101.194.167	twitch.tv
+151.101.122.167	www.twitch.tv
+199.232.58.214	api.twitch.tv
+151.101.122.167	gql.twitch.tv
+#52.4.240.221	blog.twitch.tv
+13.35.121.116 	blog.twitch.tv
+13.35.121.102	blog.twitch.tv
+23.47.190.59 	player.twitch.tv
+#104.88.57.25	player.twitch.tv
+23.34.217.143	cvp.twitch.tv
+54.213.50.135	spade.sci.twitch.tv
+35.155.162.5	pubsub-edge.twitch.tv
+151.101.2.167	static.twitchcdn.net
+151.101.230.167	dashboard.twitch.tv
+52.40.96.167	irc-ws.chat.twitch.tv
+52.27.94.214 	irc-ws.chat.twitch.tv
+52.10.26.169 	irc-ws.chat.twitch.tv
+13.33.41.114 	extension-files.twitch.tv
+13.33.41.78	extension-files.twitch.tv
+13.226.209.15	panels-images.twitch.tv
+13.226.209.126 	panels-images.twitch.tv
+34.216.60.197 	countess.twitch.tv
+52.27.66.73 	countess.twitch.tv
+35.161.177.212	id.twitch.tv
+99.84.232.120 	id-cdn.twitch.tv
+99.84.232.112 	id-cdn.twitch.tv
+88.221.24.80	help.twitch.tv
+165.254.52.219	help.twitch.tv
+13.35.121.27 	stream.twitch.tv
+13.35.121.95	stream.twitch.tv
+45.113.129.206	live-tpe01.twitch.tv
+
+
+52.204.223.154	herokuapp.com
+
